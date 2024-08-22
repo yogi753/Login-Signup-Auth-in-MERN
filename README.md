@@ -42,3 +42,17 @@ Start the React application: **npm start**<br>
 Backend Technology: *Node.js, Express.js*<br>
 Database: *MongoDB*<br>
 Frontend Technology: *React.js*<br>
+
+# Demo Snapshots:
+
+<br>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/96e16a8c-4d9f-43c6-883e-a506fdec61a0" width="800" height="500" /><br><br>
+
+   <img src="https://github.com/user-attachments/assets/b5557a5f-05d0-4731-9129-72564542c112" width="800" height="500" /><br><br>
+
+   <img src="https://github.com/user-attachments/assets/d97b7b87-65f3-45c3-a27f-21bf9cd39a98" width="800" height="500" />
+</p>
+
+
+
